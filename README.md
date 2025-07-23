@@ -1,31 +1,32 @@
-# 👋 ¡Hola! Soy Edgar Salas
+# 👋 Hi! I'm Edgar Salas
 
-🎯 **Desarrollador Backend** apasionado por la calidad, la arquitectura y la mejora continua.
-
----
-
-## 🧑‍💻 Sobre mí
-
-Soy desarrollador backend especializado en **Java** y **Spring Boot**. Me enfoco en el diseño e implementación de sistemas robustos y escalables, aplicando principios de **Arquitectura Hexagonal** y **Domain-Driven Design (DDD)**. Cuento con experiencia en integración de pipelines de **CI/CD** y manejo eficiente de bases de datos **SQL**.
-
-Además, disfruto explorar el mundo **DevOps** como hobby: administro **VPS**, máquinas virtuales, servicios y aplicaciones, siempre en entornos **GNU/Linux** 🐧. Soy un fiel defensor del **open source** y busco constantemente aprender y compartir conocimientos.
+🎯 **Backend Developer** passionate about quality, architecture, and continuous improvement.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧑‍💻 About Me
 
-- 💻 **Lenguajes & Frameworks:** Java, Spring Boot
-- 🏗️ **Arquitectura:** Hexagonal, DDD
-- 🚀 **DevOps:** CI/CD, administración de servidores, automatización
-- 🗄️ **Bases de datos:** SQL
-- 🐧 **Sistemas operativos:** GNU/Linux (usuario avanzado)
+I'm a backend developer specialized in **Java** and **Spring Boot**. I focus on designing and implementing robust, scalable systems, applying **Hexagonal Architecture** and **Domain-Driven Design (DDD)** principles. I have experience integrating **CI/CD** pipelines and efficiently managing **SQL** databases.
+
+I also enjoy exploring the **DevOps** world as a hobby: managing **VPS**, virtual machines, services, and applications, always in **GNU/Linux** environments 🐧. I'm a strong advocate of **open source** and constantly seek to learn and share knowledge.
 
 ---
 
-## 📫 Contacto
+## 🛠️ Technologies & Tools
+
+- 💻 **Languages & Frameworks:** Java, Spring Boot
+- 🏗️ **Architecture:** Hexagonal, DDD
+- ☁️ **Cloud:** General experience with AWS
+- 🚀 **DevOps:** CI/CD, server administration, automation
+- 🗄️ **Databases:** SQL
+- 🐧 **Operating Systems:** GNU/Linux (advanced user)
+
+---
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Salas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ejsalas/)
 
 ---
 
-> “El conocimiento, como el software libre, crece cuando se comparte.” 🐧
+> “Knowledge, like free software, grows when it is shared.” 🐧
